@@ -10,4 +10,4 @@ Understanding the concept of cleaning unstructured data, tokenize english senten
 Songs lyrics can be found from LyricFind
 
 ## Project content
-All of the presentation and guidelines can be found in my medium article (here)[https://medium.com/@williamhuybui/introduction-to-natural-language-processing-with-the-beatles-and-taylor-swift-2a06055cbc14]
+All of the presentation and guidelines can be found in my medium article [here](https://medium.com/@williamhuybui/introduction-to-natural-language-processing-with-the-beatles-and-taylor-swift-2a06055cbc14)
